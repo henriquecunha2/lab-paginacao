@@ -1,0 +1,14 @@
+# Executáveis gerados pelo make
+a1_paginas/paginas
+a2_a3_mmu/traducao
+a2_a3_mmu/falta
+a2_a3_mmu/faltas_linux
+a5_tlb/tlb
+a6_multinivel/multinivel
+a6_multinivel/indices
+desafio/pagemap
+
+# Arquivos objeto e de editores
+*.o
+*.swp
+.vscode/
